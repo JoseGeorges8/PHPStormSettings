@@ -4,6 +4,7 @@
       <mapping pattern="DateFormatHelper" type="PLAIN_TEXT" />
       <mapping pattern="lessc" type="PLAIN_TEXT" />
       <mapping pattern="bugs" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping pattern="timeValidator" type="TypeScript" />
       <mapping ext="service" type="TypeScript" />
     </extensionMap>
